@@ -1,2 +1,3 @@
 # Spring-JMS-Template-Simple-Example
-Demo using JmsTemplate provided by Spring to send synchronous messages between one application and another. 
+Simple example to demonstrate using Spring's JmsTemplate to send synchronous messages between one application and another. 
+Requires a Apache Artemis ActiveMQ broker running with default settings on localhost.
